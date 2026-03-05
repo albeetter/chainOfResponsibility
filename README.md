@@ -18,4 +18,6 @@
 ### Validation: 
 - Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
-## UML Diagram
+# UML Diagram
+<img src="https://github.com/albeetter/chainOfResponsibility/blob/master/chainOfResponsibilityDiagram.png" alt="classdiagram">
+
